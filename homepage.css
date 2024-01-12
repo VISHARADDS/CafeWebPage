@@ -1,0 +1,59 @@
+.bgImage{
+
+    background-image: url(image3.jpg);
+    background-size: cover;
+  }
+
+  .p1{
+      font-family:comic sans-serif;
+      color: antiquewhite;
+      font-style: italic;
+      font-size: 50px;
+  }
+  button{
+     border-radius: 50px;
+      font-size: 20px;
+      margin-left: 20px;
+      background-color: transparent;
+      padding: 5px 10px;
+      color: antiquewhite;
+      cursor: pointer;
+
+  }
+  .p2{
+      margin-top: 0px;
+      margin-left: 20px;
+      font-family:comic sans-serif;
+      color: antiquewhite;
+      font-size: 20px;
+      text-align: justify;
+  }
+ .container{
+  background-repeat: no-repeat;
+   background-size: cover;
+  margin: 50px 50px 50px 50px;
+  background-image: url(cup.jpg);
+  border-radius: 15px;
+  
+ }
+ article{
+  margin-top: 90px;
+  margin-left: 80px;
+
+ } 
+ a{
+  color: antiquewhite;
+  font-size: 20px;
+ }
+a:link { text-decoration:none ;}
+.div2{
+ 
+  display: inline;
+  margin-top: 20px;
+  margin-left: 900px;
+
+}
+.article2{
+  max-width: 500px;
+  
+}
